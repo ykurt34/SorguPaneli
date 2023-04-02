@@ -23,11 +23,6 @@ Projeyi kurmak için NodeJS ihtiyacınız var bunu sitesinden veya linux kullan�
 ![Screenshot at Nis 02 03-02-25](https://user-images.githubusercontent.com/129623603/229323526-ee6a63e0-89a4-4ac3-8fa0-8cf14f3adc43.png)
 
   
-## Yazarlar ve Teşekkür
-
-- @Methood geliştirme için.
-
-  
 ## Destek
 
 Destek için liuqa@duck.com adresine e-posta gönderin veya Slack kanalımıza katılın.
