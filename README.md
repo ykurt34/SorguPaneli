@@ -10,8 +10,8 @@ Bu veri seti ile türkiyede aile sorgulama uygulaması yaptım bu uygulama kesin
 Projeyi kurmak için NodeJS ihtiyacınız var bunu sitesinden veya linux kullanıyor iseniz kütüphanelerden yükliyebilirsiniz.
 
 ```bash 
-  git clone https://github.com/liiuqa/FamilyChecker
-  cd FamilyChecker
+  git clone https://github.com/FurkanGod/SorguPaneli
+  cd SorguPaneli
 
   npm install
   npm run start
@@ -25,11 +25,11 @@ Projeyi kurmak için NodeJS ihtiyacınız var bunu sitesinden veya linux kullan�
   
 ## Destek
 
-Destek için liuqa@duck.com adresine e-posta gönderin veya Slack kanalımıza katılın.
+Destek için @FurkanGods Telegram adresine Yazın.
 
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen liuqa@duck.com  adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen t.me/ExEdirilis  adresinden bize ulaşın.
 
  ## Lisans
 
