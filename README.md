@@ -25,11 +25,11 @@ Projeyi kurmak için NodeJS ihtiyacınız var bunu sitesinden veya linux kullan�
   
 ## Destek
 
-Destek için @FurkanGods Telegram adresine Yazın.
+Destek için @Furkanisyanedior Telegram adresine Yazın.
 
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen t.me/ExEdirilis  adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen t.me/MajesteSohbet  adresinden bize ulaşın.
 
  ## Lisans
 
