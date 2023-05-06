@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liiuqa/FamilyChecker.git"
+    "url": "git+https://github.com/FurkanGod/SorguPaneli.git"
   },
-  "author": "Liuqa",
+  "author": "FurkanGod",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liiuqa/FamilyChecker/issues"
+    "url": "https://github.com/FurkanGod/SorguPaneli/issues"
   },
-  "homepage": "https://github.com/liiuqa/FamilyChecker#readme",
+  "homepage": "https://github.com/liiuqa/FurkanGod/SorguPaneli#readme",
   "dependencies": {
     "chalk": "^5.2.0",
     "chlak": "0.0.1-security",
