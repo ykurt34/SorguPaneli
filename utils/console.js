@@ -15,7 +15,7 @@ const init = async () => {
     `))
     console.log(chalk.green.bold('                  Aile Sorgulama Sistemi'));
     console.log(chalk.red.bold('Uygulamadan doğacak herhangi bir sorumluluk kabul edilmemektedir.'));
-    console.log(chalk.blue.bold(`               Uygulama geliştiricisi: @FurkanGods`));
+    console.log(chalk.blue.bold(`               Uygulama geliştiricisi: @Furkanisyanedior`));
 }
 
 export default {
